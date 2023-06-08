@@ -10,4 +10,4 @@ Leave the 1st string (E) open.
 
 The 5th and 6th strings (A and E) are played open.
 
-![Guitar Chord](https://drive.google.com/file/d/1nRzABmTElsTjj2Dl9EWpuHnoqBOH--qo/view?usp=drive_link)
+![Guitar Chord](https://drive.google.com/file/d/1nRzABmTElsTjj2Dl9EWpuHnoqBOH--qo/view?usp=sharing)
