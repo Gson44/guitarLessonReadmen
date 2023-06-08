@@ -10,4 +10,4 @@ The 4th string (D) is played open.
 
 Do not play the 5th and 6th strings.
 
-![Guitar Chord](DChord.png)
+![Guitar Chord](https://github.com/Gson44/guitarLessonReadmen/blob/main/DMajor.png?raw=true)
