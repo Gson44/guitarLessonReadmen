@@ -10,4 +10,4 @@ Leave the 1st string (E) open.
 
 The 5th and 6th strings (A and E) are played open.
 
-![Guitar Chord](AMajor.png)
+![Guitar Chord](https://api.github.com/repos/Gson44/guitarLessonReadmen/contents/AMajor.png)
