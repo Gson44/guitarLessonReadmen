@@ -8,4 +8,4 @@ Place your 3rd (ring) finger on the 3rd fret of the 5th string (A).
 
 Place your 4th (pinky) finger on the 3rd fret of the 4th string (D).
 
-![Guitar Chord](FChord.png)
+![Guitar Chord](https://github.com/Gson44/guitarLessonReadmen/blob/main/FMajor.png?raw=true)
