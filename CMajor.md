@@ -10,4 +10,4 @@ Place your 1st (index) finger on the 1st fret of the 2nd string (B).
 Leave the 1st string (E) open.
 
 
-![Guitar Chord](CChord.png)
+![Guitar Chord](https://github.com/Gson44/guitarLessonReadmen/blob/main/CChord.png?raw=true)
