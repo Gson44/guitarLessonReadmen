@@ -1,4 +1,4 @@
-#D Minor Chord
+# D Minor Chord
 
 To play the D minor chord:
 
