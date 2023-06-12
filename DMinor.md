@@ -10,4 +10,4 @@ Place your 3rd (ring) finger on the 3rd fret of the 2nd string (B).
 
 Here's a visual representation of the D minor chord:
 
-![D Minor Chord](D_Minor_Chord.png)
+![D Minor Chord](https://github.com/Gson44/guitarLessonReadmen/blob/main/DMinor.png?raw=true)
