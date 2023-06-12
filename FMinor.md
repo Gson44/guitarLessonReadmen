@@ -12,4 +12,4 @@ Place your 3rd (ring) finger on the 3rd fret of the 4th string (D).
 
 Here's a visual representation of the F minor chord:
 
-![F Minor Chord](F_Minor_Chord.png)
+![F Minor Chord](https://github.com/Gson44/guitarLessonReadmen/blob/main/DMInor.png?raw=true)
