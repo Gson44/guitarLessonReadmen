@@ -10,4 +10,4 @@ To play the G minor chord:
 
 Here's a visual representation of the G minor chord:
 
-![G Minor Chord](G_Minor_Chord.png)
+![G Minor Chord](https://github.com/Gson44/guitarLessonReadmen/blob/main/GMinor.png?raw=true)
