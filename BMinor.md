@@ -13,4 +13,4 @@ Place your 4th (pinky) finger on the 4th fret of the 2nd string (B).
 Place your 1st (index) finger on the 2nd fret of the 1st string (E).
 
 Here's a visual representation of the B minor chord:
-![B Minor Chord](B_Minor_Chord.png)
+![B Minor Chord](https://github.com/Gson44/guitarLessonReadmen/blob/main/BMinor.png?raw=true)
