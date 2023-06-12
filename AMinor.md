@@ -10,5 +10,5 @@ Place your 3rd (ring) finger on the 2nd fret of the 3rd string (G).
 
 Here's a visual representation of the A minor chord:
 
-![A Minor Chord](A_Minor_Chord.png)
+![A Minor Chord](https://github.com/Gson44/guitarLessonReadmen/blob/main/AMinor.png?raw=true)
 
