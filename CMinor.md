@@ -14,4 +14,4 @@ Leave the 1st string (E) open.
 
 Here's a visual representation of the C minor chord:
 
-![C Minor Chord](C_Minor_Chord.png)
+![C Minor Chord](https://github.com/Gson44/guitarLessonReadmen/blob/main/CMinor.png?raw=true)
